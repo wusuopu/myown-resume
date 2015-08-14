@@ -1,0 +1,50 @@
+---
+layout: default
+title: 龙昌锦的简历
+---
+
+# 龙昌锦的简历
+
+-------
+
+## 联系方式
+- Email: `echo YWRtaW5AbG9uZ2NoYW5namluLmNuCg== | base64 -D`
+- Blog: [http://www.xefan.com](http://www.xefan.com)
+- Github: [https://github.com/wusuopu](https://github.com/wusuopu)
+- Twitter: [https://twitter.com/longchangjin](https://twitter.com/longchangjin)
+
+
+## 我的技能
+- 熟悉 PHP、CoffeeScript、Nodejs，擅长 Python、Ruby，并熟悉 Python 和 Ruby 的 C 扩展开发。曾深入阅读过 Python2.7 的内核源代码。  
+- 折腾过各种Web框架，精简类型的有: Bottle、Flask、Sinatra、Express；
+功能复杂的有：Django、Laravel4、Symfony2 以及 Rails。其中曾深入阅读过 Django1.5 的源代码。  
+- 熟悉 MongoDB、MySQL 以及 Redis 数据库。了解 Docker 的虚拟化部署。  
+- 前端的部分稍微熟悉 AngularJS、Grunt 等工具。
+
+
+## 工作经验
+
+### 武汉深之度科技有限公司 (2012.07 ~ 2015.02)
+1. 负责 DeepinLinux 下的桌面应用程序的开发，主要的技术为 C + Python + GTK
+2. 使用 Python/Django + MongoDB 进行网站开发
+3. 官方网站的维护与开发，主要技术为 PHP/Laravel4 + MySQL + Docker
+
+### 深圳市伊欧乐科技有限公司 (2015.03 ~ 2015.06)
+1. 负责网站后台的开发，主要技术为 Rails + Angular
+2. 为手机App端提供api接口。
+
+
+## 教育经历
+
+### 贵州大学
+  计算机科学与技术专业，本科 (2008 – 2012)
+
+
+## 相关项目
+- [php-src](https://github.com/php/php-src)：提交[补丁](http://git.php.net/?p=php-src.git;a=commit;h=72976e2497f963b7f203443f9881d52e0ff97962)修复了 PHP 内部的一个 [Bug](https://bugs.php.net/bug.php?id=66606)
+- [meri](https://github.com/wusuopu/meri)：使用 Ruby 开发的一门简单的动态编程语言
+
+
+## 爱好
+游戏、美食、口琴
+
