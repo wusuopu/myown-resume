@@ -3,6 +3,8 @@ layout: default
 title: Changjin Long's resume
 ---
 
+<div style="text-align: right;"> <a href="index.html">English</a> | <a href="index.zh-CN.html">Chinese</a> </div>
+
 # Changjin Long's resume
 
 -------
@@ -30,6 +32,11 @@ Ruby, Python, PHP, Nodejs, CoffeeScript, GTK+, Rails, Laravel4, AngularJS, Redis
 2. provide api services for mobile application
 
 
+### Shenzhen Jizhi Tech Co., Ltd. (2015.09 ~ Now)
+1. develop website with LoopBack(Nodejs) & ReactJS & MongoDB
+2. develop mobile App of Android and iOS with React-Native
+
+
 ## Education
 
 ### Guizhou University
@@ -39,6 +46,7 @@ Ruby, Python, PHP, Nodejs, CoffeeScript, GTK+, Rails, Laravel4, AngularJS, Redis
 ## Project
 - [php-src](https://github.com/php/php-src)：Commit a [patch](http://git.php.net/?p=php-src.git;a=commit;h=72976e2497f963b7f203443f9881d52e0ff97962) to fix a [Bug](https://bugs.php.net/bug.php?id=66606) of PHP
 - [meri](https://github.com/wusuopu/meri) : A dynamically typed programming language runs on Ruby
+- [loopback](https://github.com/strongloop/loopback): Commit a [patch](https://github.com/strongloop/loopback/commit/14e6ec554a735fb75e4340b5af26f9618c4df315)to fix a [Bug](https://github.com/strongloop/loopback/issues/1689) of LoopBack framework
 
 
 ## Hobbies
