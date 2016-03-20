@@ -51,6 +51,7 @@ title: 龙昌锦的简历
 - [php-src](https://github.com/php/php-src)：提交[补丁](http://git.php.net/?p=php-src.git;a=commit;h=72976e2497f963b7f203443f9881d52e0ff97962)修复了 PHP 内部的一个 [Bug](https://bugs.php.net/bug.php?id=66606)
 - [meri](https://github.com/wusuopu/meri)：使用 Ruby 开发的一门简单的动态编程语言
 - [loopback](https://github.com/strongloop/loopback): 提交[补丁](https://github.com/strongloop/loopback/commit/14e6ec554a735fb75e4340b5af26f9618c4df315)修复的 LoopBack 框架的一个 [Bug](https://github.com/strongloop/loopback/issues/1689)
+- [react-native](https://github.com/facebook/react-native): 为 React-Native 修复了一些 Bug 。 [补丁1](https://github.com/facebook/react-native/commit/97741af8b99ea8e443d41b80c4d9a8fd843a96ab) [补丁2](https://github.com/facebook/react-native/commit/97b8a57bdbbf462aaef807991eea22665f0662c9)
 
 
 ## 爱好
