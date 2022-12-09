@@ -202,3 +202,9 @@ pre {
         }
     }
 }
+
+@media print {
+  .hide-print {
+    display: none;
+  }
+}
